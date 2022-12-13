@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Regression Test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="7.388">
+  <properties />
+  
+  
+            <testcase name="verifyTheErrorMessage" time="4.797" classname="com.ultimateqa.testsuite.SignInPageTest" />
+                <testcase name="userShouldNavigateToLoginPageSuccessfully" time="2.591" classname="com.ultimateqa.testsuite.SignInPageTest" />
+      
+</testsuite>
